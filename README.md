@@ -13,6 +13,9 @@ When using the NootedRed.kext for integrated graphics on a Hackintosh, certain a
 - Parsec
 	- Issue: Hardware Decoding won't work
 	- Workaround: Switch to software decoder 
+- Lark/Feishu
+	- Issue: Lark/Feishu meetings broken
+	- Workaround: Use  
 
 ## Incompatible Chromium-based Browsers
 - Google Chrome
