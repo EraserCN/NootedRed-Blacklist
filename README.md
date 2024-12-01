@@ -15,7 +15,10 @@ When using the NootedRed.kext for integrated graphics on a Hackintosh, certain a
 	- Workaround: Switch to software decoder 
 - Lark/Feishu
 	- Issue: Lark/Feishu meetings broken
-	- Workaround: Use  
+	- Workaround: Use web-based version for meetings
+- Spotify
+	- Issue: Music Video doesn't work
+	- Workaround: N/A
 
 ## Incompatible Chromium-based Browsers
 - Google Chrome
