@@ -9,6 +9,7 @@ When using the NootedRed.kext for integrated graphics on a Hackintosh, certain a
  - Workaround: Use other code editors such as VScode
 - Tencent QQ
 	- Workaround: Use Electron-based older version
+
 ## Partially Broken Apps
 - Parsec
 	- Issue: Hardware Decoding won't work
@@ -19,6 +20,9 @@ When using the NootedRed.kext for integrated graphics on a Hackintosh, certain a
 - Spotify
 	- Issue: Music Video doesn't work
 	- Workaround: N/A
+- Discord
+	- Issue: Gifs menu doesn't work
+ 	- Workaround: Disable Hardware Acceleration in Settings -> Advanced
 
 ## Incompatible Chromium-based Browsers
 - Google Chrome
