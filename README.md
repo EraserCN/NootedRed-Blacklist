@@ -33,6 +33,7 @@ When using the NootedRed.kext for integrated graphics on a Hackintosh, certain a
 - Brave Browser
 - Opera
 - Vivaldi
-	- Workaround: Use Safari/Firefox 
+	- Workaround: Use Safari/Firefox
+ 	- Other Workaround: Sometimes, booting the browser up with `open -a <insert browser name, e.g, Google\ Chrome> --args --disable-gpu` in Terminal, or if the browser turns on you can disable GPU Rasterisation inside chrome://flags
 
 Please note that compatibility may vary based on specific configurations and updates, so it's always a good idea to check for the latest information from the Hackintosh community.
