@@ -6,7 +6,7 @@ When using the NootedRed.kext for integrated graphics on a Hackintosh, certain a
 
 ## Broken Apps
 - SublimeText
- - Workaround: Use other code editors such as VScode
+ 	- Workaround: Use other code editors such as VScode
 - Tencent QQ
 	- Workaround: Use Electron-based older version
 
