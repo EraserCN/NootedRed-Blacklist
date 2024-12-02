@@ -23,6 +23,9 @@ When using the NootedRed.kext for integrated graphics on a Hackintosh, certain a
 - Discord
 	- Issue: Gifs menu doesn't work
  	- Workaround: Disable Hardware Acceleration in Settings -> Advanced
+- Sunshine
+	- Issue: Hardware decoder won't work
+ 	- Workaround: N/A
 
 ## Incompatible Chromium-based Browsers
 - Google Chrome
