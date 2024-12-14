@@ -26,6 +26,9 @@ When using the NootedRed.kext for integrated graphics on a Hackintosh, certain a
 - Sunshine
 	- Issue: Hardware encoding won't work
  	- Workaround: N/A
+- Steam
+	- Issue: In-app browser causes graphical artefacts
+	- Workaroud: Disable GPU acceleration in settings
 
 ## Incompatible Chromium-based Browsers
 - Google Chrome
